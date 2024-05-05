@@ -1,0 +1,4 @@
+1) Use Font Family Helvetica google fonts
+2) Implement slider(carousel slider)
+3) container size: 1170px
+
